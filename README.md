@@ -1,1 +1,1 @@
-# How-to-host-a-static-website-with-Azure-Storage
+# How-to-host-a-static-website-with-static-webapp
